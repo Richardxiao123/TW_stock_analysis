@@ -7,9 +7,9 @@ TW_stock_analysis 是一個用於分析台灣股票市場的專案。目標是�
 本專案使用 [yfinance](https://github.com/ranaroussi/yfinance) 套件下載台灣上市股票資料。
 
 ##  模型選擇
-- **RandomForest:**
+- **RandomForest**
   
-- **XGBoost:**
+- **XGBoost**
 
 ### 執行模型訓練與回測
 1. 資料處理：
