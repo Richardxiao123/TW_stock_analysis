@@ -1,7 +1,7 @@
 # TW_stock_analysis
 
 ## 專案簡介
-TW_stock_analysis 是一個用於分析台灣股票市場的專案。目標是訓練機器學習模型（RandomForest 和 XGBoost），根據自定義的標準對股票進行評分（1 至 5 分），並篩選出評分為 5 的股票進行回測，以評估策略的效果。
+TW_stock_analysis 是一個用於分析台灣股票市場的專案。目標是訓練機器學習模型（RandomForest 和 XGBoost），根據自定義的標準對股票進行評分（1 至 5 分），並篩選出評分為 5 的股票進行回測，以評估策略的效果，並且可進一步套用至自己設定的日期。
 
 ##  資料來源
 本專案使用 [yfinance](https://github.com/ranaroussi/yfinance) 套件下載台灣上市股票資料。
