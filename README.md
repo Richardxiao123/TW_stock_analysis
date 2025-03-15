@@ -1,0 +1,1 @@
+利用randomforest以及XGBoost模型來對股票給分，分數介於1～5分
